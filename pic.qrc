@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="/new/prefix1">
+    <file>source/search.png</file>
+    <file>source/bullet_blue.png</file>
+    <file>source/stopIcon.png</file>
+    <file>source/pause.png</file>
+    <file>source/add.png</file>
+    <file>source/delete.png</file>
+  </qresource>
+  <qresource prefix="/new/prefix2">
+    <file>source/back.png</file>
+    <file>source/forward.png</file>
+    <file>source/loop.png</file>
+    <file>source/lastIcon.png</file>
+    <file>source/nextIcon.png</file>
+    <file>source/playIcon.png</file>
+  </qresource>
+  <qresource prefix="/wallpaper">
+    <file>source/horizon.jpg</file>
+    <file>source/title.png</file>
+    <file>source/voice.png</file>
+    <file>source/wall.jpg</file>
+    <file>source/noVoice.png</file>
+  </qresource>
+  <qresource prefix="/images">
+    <file>a/1.png</file>
+    <file>a/2.png</file>
+    <file>a/3.png</file>
+    <file>a/4.png</file>
+    <file>a/addpage.png</file>
+    <file>a/subpage.png</file>
+    <file>a/tiao.png</file>
+  </qresource>
+  <qresource prefix="/scroll">
+    <file>scrollbar.qss</file>
+  </qresource>
+</RCC>
